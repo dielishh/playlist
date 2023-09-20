@@ -1,0 +1,17 @@
+.base_div {
+	color: rgb(0, 255, 175);
+	background: rgb(75, 75, 75);
+	
+	padding: 10px;
+	margin: 10px;
+
+	border: 2px dashed rgb(255,255,255);
+}
+
+.base_text {
+	font: italic normal normal 20px/1.25 Areal, sans-serif;
+
+	color: white;
+
+	text-decoration: underline;
+}
